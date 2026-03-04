@@ -17,8 +17,8 @@ I am a developer focused on building scalable web applications and automation to
 
 ### 🏆 GitHub Metrics
 <p align="left">
-<img src="https://github-profile-trophy.vercel.app/?username=SrujanPetumpurai&theme=tokyonight&no-bg=true&column=2" height="150" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrujanPetumpurai&theme=transparent&hide_border=true" height="150" />
+<img src="https://github-profile-trophy-ridemountainpig.zeabur.app/?username=SrujanPetumpurai&theme=tokyonight&no-bg=true&column=2" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SrujanPetumpurai&theme=transparent&hide_border=true" height="150" />
 </p>
 
 ### 📊 Account Stats
