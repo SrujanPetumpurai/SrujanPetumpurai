@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Srujan%20Petumpurai&fontSize=70)
+![Header](./github-header-banner.png)
 # Software Engineer & Automation Enthusiast 👋
 
 ### Full-Stack Developer | Student
@@ -8,16 +8,20 @@ I am a developer focused on building scalable web applications and automation to
 ---
 
 ### 🛠 Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,ts,nextjs,react,mongodb,postgres,tailwind,docker)](https://skillicons.dev)
----
-
+[![My Skills](https://skillicons.dev/icons?i=nextjs,react,ts,nodejs,express,postgres,prisma,mongodb,mongoose,tailwind,redis,docker,git,postman,vercel&theme=dark)](https://skillicons.dev)
 ### 🚀 What I'm Working On
 * **Zapier Clone:** Building a full-stack automation platform to orchestrate workflows between different APIs.
 * **Goal for 2026:** Securing a Full-Stack Software Engineering role where I can contribute to production-grade systems.
 
 ---
 
-### 📊 GitHub Stats
+### 🏆 GitHub Metrics
+<p align="left">
+<img src="https://github-profile-trophy.vercel.app/?username=SrujanPetumpurai&theme=tokyonight&no-bg=true&column=2" height="150" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=SrujanPetumpurai&theme=transparent&hide_border=true" height="150" />
+</p>
+
+### 📊 Account Stats
 <p align="left">
 <img src="https://github-readme-stats-fast.vercel.app/api?username=SrujanPetumpurai&show_icons=true&theme=transparent" height="150" />
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SrujanPetumpurai&layout=compact&theme=transparent" height="150" />
