@@ -1,5 +1,5 @@
 ![Header](https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=Srujan%20Petumpurai&fontSize=70)
-# Hi, I'm Srujan 👋
+# Software Engineer & Automation Enthusiast 👋
 
 ### Full-Stack Developer | Student
 
@@ -18,9 +18,10 @@ I am a developer focused on building scalable web applications and automation to
 ---
 
 ### 📊 GitHub Stats
-![Srujan's GitHub stats](https://github-readme-stats.vercel.app/api?username=SrujanPetumpurai&show_icons=true&theme=transparent)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SrujanPetumpurai&layout=compact&theme=transparent)
-
+<p align="left">
+<img src="https://github-readme-stats-fast.vercel.app/api?username=SrujanPetumpurai&show_icons=true&theme=transparent" height="150" />
+<img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=SrujanPetumpurai&layout=compact&theme=transparent" height="150" />
+</p>
 ---
 
 ### 📬 Connect with Me
